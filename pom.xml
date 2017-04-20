@@ -31,7 +31,7 @@
         <repository>
             <id>central</id>
             <name>8679db917e52-releases</name>
-            <url>http://172.16.129.85:8999/artifactory/libs-snapshot-local</url>
+            <url>http://192.168.99.100:8081/artifactory/libs-snapshot-local</url>
         </repository>
     </distributionManagement>
 
