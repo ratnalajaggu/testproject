@@ -27,7 +27,7 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-   <distributionManagement>
+  <distributionManagement>
     <snapshotRepository>
         <id>snapshots</id>
         <name>74fbd3b6e345-snapshots</name>
